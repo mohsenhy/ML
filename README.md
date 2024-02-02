@@ -1,4 +1,4 @@
-# ML
+# Machine Learning Conecepts (handnotes by Mohsen Hazrati)
 ## *Backpropagation is explained here.*
 
 ![](https://github.com/mohsenhy/ML/blob/main/BackPropagation_Page1.jpg)
